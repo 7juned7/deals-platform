@@ -113,8 +113,8 @@ JWT_SECRET=your_secret
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/deals-platform.git
-cd deals-platform
+git clone https://github.com/7juned7/deals-platform.git
+
 ```
 
 ### 2️⃣ Install dependencies
